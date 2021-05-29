@@ -20,6 +20,11 @@
  
  The design can be viewed on file => desgin_app.xd
  
+![login](https://raw.githubusercontent.com/7hj4/android-app-with-api/main/Login.png?token=AM5SLZSLI6ZDI3KARV5PKYTAWK43A)
+![register](https://raw.githubusercontent.com/7hj4/android-app-with-api/main/Register.png?token=AM5SLZUJKW53NT2F3RBFNS3AWK43C)
+![Profile](https://raw.githubusercontent.com/7hj4/android-app-with-api/main/Profile.png?token=AM5SLZRJVJ2DFHZPAMPZ5P3AWK43A)
+
+ 
  # Some references to reduce reverse engineering
  
 Initially, you can use ProGuard
