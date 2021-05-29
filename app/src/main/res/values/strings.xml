@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login app</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account_sign_in">Already have account? Sign in</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here</string>
+    <string name="log_in">Log in</string>
+    <string name="login_app">Login app</string>
+    <string name="information_account">Information account</string>
+    <string name="profile">Profile</string>
+    <string name="user_id">User ID</string>
+    <string name="log_out">Log Out</string>
+</resources>

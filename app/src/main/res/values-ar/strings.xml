@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسجيل دخول</string>
+    <string name="create_new_account">انشاء حساب جديد</string>
+    <string name="name">الاسم</string>
+    <string name="email">البريد الكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="re_enter_password">اعادة كلمة السر</string>
+    <string name="register">تسجيل</string>
+    <string name="already_have_account_sign_in">يوجد لديك حساب الرجاء الضغط هنا لتسجيل الدخول</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="login_app">تسجيل الدخول</string>
+    <string name="don_t_have_an_account_register_here">لايوجد لديك حساب الرجاء الضغط هنا لتسجيل حساب جديد</string>
+    <string name="information_account">معلومات الحساب الشخصي</string>
+    <string name="profile">الحساب</string>
+    <string name="user_id">رقم اليوزر</string>
+    <string name="log_out">تسجيل الخروج</string>
+</resources>
